@@ -1,0 +1,3 @@
+简易的基于javaweb开发的品牌管理系统；
+前端运用了vue框架和element-ui组件库；
+后端由mybatis和servlet实现。
